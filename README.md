@@ -21,13 +21,17 @@
 
 ### Step 2: Restart windows
 
-### Step 3: Download Ubuntu 18.04 (installs Redis v4.09) from 'Microsoft Store'
+### Step 3: Download Ubuntu 18.04 LTS (installs Redis v4.09) from 'Microsoft Store'
+
+### Goto Ubuntu terminal
 
 ### Step 4: Update Ubunu
 	> sudo apt-get update
 
 ### Step 5: Upgrade Ubuntu
 	> sudo apt-get upgrade
+
+	Note: Give yes for all the questions
 
 ### Step 6: Install Redis Server
 	> sudo apt-get install redis-server
