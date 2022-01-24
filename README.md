@@ -23,7 +23,7 @@
 
 ### Step 3: Download Ubuntu 18.04 LTS (installs Redis v4.09) from 'Microsoft Store'
 
-### Goto Ubuntu terminal
+### Step 3.1: After installing Ubuntu 18.04 LTS, Goto Ubuntu terminal and executing the following commands.
 
 ### Step 4: Update Ubunu
 	> sudo apt-get update
