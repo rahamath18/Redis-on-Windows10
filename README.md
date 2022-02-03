@@ -55,6 +55,11 @@
 ### Step 11: To stop Redis server:
 	127.0.0.1:6379> sudo service redis-server stop
 
+### Step 12: To set auth password:
+	127.0.0.1:6379> CONFIG SET requirepass "password1234"
+
+### Step 12: To connect with auth password:
+	127.0.0.1:6379> auth password1234
 
 ## Step by Step: Install & Setup Redis Desktop Manager
 
